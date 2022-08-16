@@ -1,0 +1,15 @@
+{
+  "name": "simplejsapp",
+  "version": "1.0.0",
+  "description": "Simple NodeJS App running on Docker Container",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moonliezz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
