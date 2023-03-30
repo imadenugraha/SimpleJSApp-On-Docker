@@ -1,0 +1,8 @@
+kind: pipeline
+name: simple-js-app
+
+steps:
+- name: simple-js-app
+  image: node
+  command:
+    - npm instal
